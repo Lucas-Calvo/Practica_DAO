@@ -1,3 +1,4 @@
+
 package es.iestetuan.lcs;
 
 import es.iestetuan.lcs.dao.iUsuario;
@@ -12,5 +13,5 @@ public class AplicaciondeUsuarios {
 		Usuario user = clasellamada.getUsuario(2);
 		System.out.println(user);
 	}
-
+ 
 }
